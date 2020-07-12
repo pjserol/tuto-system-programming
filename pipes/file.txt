@@ -1,0 +1,6 @@
+1 cinema
+2 basket ball (sport)
+3 soccer (sport)
+4 library
+5 party
+6 run (sport)
